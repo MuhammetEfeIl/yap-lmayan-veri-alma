@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033779707931",
+    "project_id": "urunlerfirebase-a3a09",
+    "storage_bucket": "urunlerfirebase-a3a09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033779707931:android:fcfb3b0403742913dc78be",
+        "android_client_info": {
+          "package_name": "com.example.urunlerfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY1ubSDdpHNyf5hkGRAfKQODlhcyBkCxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
